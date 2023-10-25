@@ -1,0 +1,352 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "-awlcQxZmI5aowk046dGTFf8g-A",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 10
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IDr2Pvw_xvZSDz-oCjpxWVQ3O9M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QMbx0dTWJIQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-07-23T12:27:12Z",
+          "channelId": "UC5--wS0Ljbin1TjWQX6eafA",
+          "title": "Stop Studying Programming",
+          "description": "Hi all, this is a video I wish I had for myself. It's more about getting into the builders mindset. Huge shout out to Victor Bigfield and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QMbx0dTWJIQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QMbx0dTWJIQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QMbx0dTWJIQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "bigboxSWE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-07-23T12:27:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fp8ttt6MG01HeaFK_etCURoHTXA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rSKMYc1CQHE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-08T11:09:16Z",
+          "channelId": "UCmtyQOKKmrMVaKuRXz02jbQ",
+          "title": "Coding Adventure: Simulating Fluids",
+          "description": "Let's try to convince a bunch of particles to behave (at least somewhat) like water. Written in C# and HLSL, and running inside the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rSKMYc1CQHE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rSKMYc1CQHE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rSKMYc1CQHE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sebastian Lague",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-08T11:09:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "scOLUfu0AqhgX5MP0e4OJgX8f5o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BkzPdgdxWBY"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-13T06:00:05Z",
+          "channelId": "UCkcqmxjMXaBb0kDWqqSEU1g",
+          "title": "Stop Learning These Programming Languages (as a beginner)",
+          "description": "\"What programming languages should you learn?\" has been answered many times. \"What programming languages should you ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BkzPdgdxWBY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BkzPdgdxWBY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BkzPdgdxWBY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Power Couple",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-13T06:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q9RzfKX-oPzdO4xtc7fVDE_K5LA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NHquaDS6XQ0"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-29T23:51:42Z",
+          "channelId": "UCuudpdbKmQWq2PPzYgVCWlA",
+          "title": "99% Of Python Programmers Never Learned THIS Feature",
+          "description": "99% of Python programmers don't know this. #Python #Short.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NHquaDS6XQ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NHquaDS6XQ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NHquaDS6XQ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Indently",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-29T23:51:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "io5hnOiBouz93XZl0DM26ir26ys",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bOCHTHkBoAs"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-21T18:33:00Z",
+          "channelId": "UCsBjURrPoezykLs9EqgamOA",
+          "title": "10 Math Concepts for Programmers",
+          "description": "Learn 10 essential math concepts for software engineering and technical interviews. Understand how programmers use ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bOCHTHkBoAs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bOCHTHkBoAs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bOCHTHkBoAs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fireship",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-21T18:33:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xLxgCvwCaNoj4ciW3AFes40Awk8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eKqY-oP1d_Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-25T17:54:00Z",
+          "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+          "title": "How to Start Coding? Learn Programming for Beginners",
+          "description": "Are you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eKqY-oP1d_Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eKqY-oP1d_Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eKqY-oP1d_Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apna College",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-25T17:54:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z_8O5Jh4-Ar6qs7zUZNPH3oPSuM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zOjov-2OZ0E"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-21T13:45:02Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Introduction to Programming and Computer Science - Full Course",
+          "description": "In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-21T13:45:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Tw_muXp3kAnd17AXI2VLZ3haFqc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O-TAjnvWjAE"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-08T12:27:23Z",
+          "channelId": "UCUmLRMERmJrmUtgnbFfknAg",
+          "title": "Programming an entire game from scratch",
+          "description": "check https://randy.gg for the latest updates! support my work - https://randy.gg/fund resources ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O-TAjnvWjAE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O-TAjnvWjAE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O-TAjnvWjAE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Randy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-08T12:27:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xgvhNGkU5EoQLZzc0irCkEi3sZs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "S4D6srYDmgE"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-09T08:15:50Z",
+          "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+          "title": "Coding Music: The Hacker&#39;s Soundtrack 24/7",
+          "description": "Welcome to \"Hacker on the Rooftop\", where cyber vibes meet cityscapes in a unique radio experience. This mix is designed to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S4D6srYDmgE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S4D6srYDmgE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S4D6srYDmgE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chill Music Lab",
+          "liveBroadcastContent": "live",
+          "publishTime": "2023-10-09T08:15:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oxc9JDl4YaNYZmrDestqaj1rRFw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KZR_UUcOyrg"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-12T16:55:05Z",
+          "channelId": "UCBwmMxybNva6P_5VmxjzwqA",
+          "title": "How to Start Coding in 2023? Learn Programming for Beginners",
+          "description": "Alpha 3.0 Placement Batch (Java+DSA) : https://www.apnacollege.in/course/alpha-batch-3 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KZR_UUcOyrg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KZR_UUcOyrg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KZR_UUcOyrg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apna College",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-12T16:55:05Z"
+        }
+      }
+    ]
+  }
