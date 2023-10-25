@@ -19,7 +19,7 @@ export class App extends Component {
     console.log("This is the render method")
     return (
       <>
-       <Router>
+       <Router basename={process.env.PUBLIC_URL}>
       <Navbar />
       
 
